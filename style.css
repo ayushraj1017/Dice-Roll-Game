@@ -1,0 +1,40 @@
+body{
+	background:
+	linear-gradient(to right,#FF4500,#ffff00)
+	;
+	
+}
+
+.wrapper {
+	
+	width:70%;
+	margin:auto;
+	text-align:center;
+}
+
+h1{
+	
+	margin:20px;
+	font-size:6rem;
+	color:rgb(208,214,218);
+}
+.dice-area{
+	
+	margin:0px 50px;
+	text-align:center;
+	display:inline-block;
+	
+}
+
+p{
+	
+	font-size:3rem;
+	color:rgb(100,300,400);
+	
+	
+	
+}
+img{
+	
+	width:320px;
+}
